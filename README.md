@@ -1,0 +1,2 @@
+# IGR204 Visualization Project Group T 2024 P4
+This is the igr204 project done by group T (Wang Haicheng, Romain David, Tanguy Schmidtlin, Sinitandjon Yeo). The code is written in jupyter notebook. The first few blocks are the given hint. The real implementation begins with header "Visualization x". It's sufficient to run the code under the same environment as the given hint.
